@@ -13,6 +13,8 @@ The full list of functionalities can be found here
 * Users can change the colour and fill of shapes
 * Users can change the width and height of shapes
 * All children within nested shapes inherit their parents colour
+  
+<img src="CompositeShapeGame.png" width="675">
 
 ## How to set up 
 
